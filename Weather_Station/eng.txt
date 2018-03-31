@@ -1,0 +1,26 @@
+<NamePrompt1>~You are allowed to name this application.
+<NamePrompt2>~What would you like the name to be?:
+<HistoryLengthPrompt1>~This application records a history of your weather inputs.
+<HistoryLengthPrompt2>~Please enter how many inputs you would like to record (Between 0 and 999999):
+<WelcomeMessage1>~Hello!
+<WelcomeMessage2>~Welcome to the "
+<WelcomeMessage2.5>~" Weather Station!
+<WelcomeMessage3>~What would you like to do?
+<DisplayMenu1>~1. Input weather stats
+<DisplayMenu2>~2. Print current weather stats
+<DisplayMenu3>~3. Print weather history
+<DisplayMenu4>~4. Exit the program
+<InputMenuChoice>~Please enter 1, 2, 3, or 4:
+<InputTemperature>~Input temperature:
+<InputWindSpeed>~Input wind speed:
+<InputWindDirection>~Input wind direction(1 or 2 letter abbreviations):
+<DisplayCurrentWeather1>~It is currently
+<DisplayCurrentWeather1.5>~F in your area.
+<DisplayCurrentWeather2>~The wind is blowing at
+<DisplayWeatherHistory1>~Total History indices:
+<DisplayWeatherHistory2>~History Index:
+<DisplayWeatherHistory3>~Temperature:
+<DisplayWeatherHistory4>~Wind Speed:
+<DisplayWeatherHistory5>~Wind Direction:
+<NoInputFound>~You have not yet input the weather stats. Please choose option 1.
+<NothingHappened>~Nothing happened. Please enter 1, 2, 3, or 4.

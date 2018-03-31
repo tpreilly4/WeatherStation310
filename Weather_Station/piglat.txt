@@ -1,0 +1,26 @@
+<NamePrompt1>~Ouyay areway allowedway otay amenay isthay applicationway.
+<NamePrompt2>~Atwhay ouldway youway ikelay ethay amenay otay ebay?:
+<HistoryLengthPrompt1>~Isthay applicationway ecordsray away istoryhay ofway yourway eatherway inputsway.
+<HistoryLengthPrompt2>~Easeplay enterway owhay anymay inputsway youway ouldway ikelay otay ecordray etween(bay 0 andway 999999):
+<WelcomeMessage1>~Ellohay!
+<WelcomeMessage2>~Elcomeway otay ethay "
+<WelcomeMessage2.5>~" eatherway ationstay!
+<WelcomeMessage3>~Atwhay ouldway youway ikelay otay oday?
+<DisplayMenu1>~1. Inputway eatherway atsstay
+<DisplayMenu2>~2. Intpray urrentcay eatherway atsstay
+<DisplayMenu3>~3. Intpray eatherway istoryhay
+<DisplayMenu4>~4. Exitway ethay ogrampray
+<InputMenuChoice>~Easeplay enterway 1, 2, 3, orway 4:
+<InputTemperature>~Inputway emperaturetay:
+<InputWindSpeed>~Inputtay indway eedspay:
+<InputWindDirection>~Inputway indway irectionday(1 orway 2 etterlay abbreviationsway):
+<DisplayCurrentWeather1>~Itway isway urrentlycay
+<DisplayCurrentWeather1.5>~F inway yourway areaway.
+<DisplayCurrentWeather2>~Ethay indway isway owingblay atway
+<DisplayWeatherHistory1>~Otaltay istoryhay indicesway:
+<DisplayWeatherHistory2>~Istoryhay Indexway:
+<DisplayWeatherHistory3>~Emperaturetay:
+<DisplayWeatherHistory4>~Indway Eedspay:
+<DisplayWeatherHistory5>~Indway Irectionday:
+<NoInputFound>~Ouyay avehay otnay yetway inputway ethay eatherway atsstay. Easeplay oosechay optionway 1.
+<NothingHappened>~Othingnay appenedhay. Easeplay enterway 1, 2, 3, orway 4.
